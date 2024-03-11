@@ -22,6 +22,6 @@ Since this is a project that I did for scaler academy, the dataset for this proj
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" width="100" height="30" alt="Pandas">
 <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="100" height="30" alt="Seaborn">
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" width="100" height="30" alt="Jupyter Notebook">
-
 </div>
+
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_obhC9hu1WEPr2qUUyoZv2ofoY71etO0?usp=sharing)
